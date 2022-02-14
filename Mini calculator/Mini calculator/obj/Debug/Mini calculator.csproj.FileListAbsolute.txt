@@ -1,0 +1,11 @@
+D:\Projects\github\C# calculator\simple-c_sharp-calculator\Mini calculator\Mini calculator\bin\Debug\Mini calculator.exe.config
+D:\Projects\github\C# calculator\simple-c_sharp-calculator\Mini calculator\Mini calculator\bin\Debug\Mini calculator.exe
+D:\Projects\github\C# calculator\simple-c_sharp-calculator\Mini calculator\Mini calculator\bin\Debug\Mini calculator.pdb
+D:\Projects\github\C# calculator\simple-c_sharp-calculator\Mini calculator\Mini calculator\obj\Debug\Mini calculator.csproj.AssemblyReference.cache
+D:\Projects\github\C# calculator\simple-c_sharp-calculator\Mini calculator\Mini calculator\obj\Debug\Mini calculator.csproj.SuggestedBindingRedirects.cache
+D:\Projects\github\C# calculator\simple-c_sharp-calculator\Mini calculator\Mini calculator\obj\Debug\Mini_calculator.Form1.resources
+D:\Projects\github\C# calculator\simple-c_sharp-calculator\Mini calculator\Mini calculator\obj\Debug\Mini_calculator.Properties.Resources.resources
+D:\Projects\github\C# calculator\simple-c_sharp-calculator\Mini calculator\Mini calculator\obj\Debug\Mini calculator.csproj.GenerateResource.cache
+D:\Projects\github\C# calculator\simple-c_sharp-calculator\Mini calculator\Mini calculator\obj\Debug\Mini calculator.csproj.CoreCompileInputs.cache
+D:\Projects\github\C# calculator\simple-c_sharp-calculator\Mini calculator\Mini calculator\obj\Debug\Mini calculator.exe
+D:\Projects\github\C# calculator\simple-c_sharp-calculator\Mini calculator\Mini calculator\obj\Debug\Mini calculator.pdb
