@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.lb_Result = new System.Windows.Forms.Label();
             this.tb_Result = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
@@ -292,6 +293,7 @@
             this.Controls.Add(this.tb_Result);
             this.Controls.Add(this.lb_Result);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;

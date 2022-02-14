@@ -46,7 +46,11 @@ namespace Mini_calculator
 
         private void operation_performed(object sender, EventArgs e)
         {
-            Button btn = (Button) sender;
+            if (result_Value != 0)
+            {
+                button18.PerformClick();
+            }
+            Button btn = (Button)sender;
             operation = btn.Text;
             result_Value = double.Parse(tb_Result.Text);
             lb_Result.Text = result_Value + operation;
@@ -63,10 +67,14 @@ namespace Mini_calculator
         {
             tb_Result.Text="0";
             lb_Result.Text = "";
+            result_Value = 0;
+            operation = "";
+            is_Operation_Performed=false;
         }
 
         private void button18_Click(object sender, EventArgs e)
         {
+            lb_Result.Text = lb_Result.Text + tb_Result.Text;
             switch (operation)
             {
                 case "+":
@@ -82,6 +90,10 @@ namespace Mini_calculator
                     tb_Result.Text = (result_Value / double.Parse(tb_Result.Text)).ToString();
                     break;
             }
+            result_Value = 0;
+            operation = "";
+            is_Operation_Performed = false;
+
         }
     }
 }
